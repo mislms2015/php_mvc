@@ -1,5 +1,5 @@
 # php_mvc
-PHP MVC Framework using hard code
+PHP MVC Framework hard coded
 
 // Update the .htaccess in the public directory
 // Update config in the app directory according to your database setup
